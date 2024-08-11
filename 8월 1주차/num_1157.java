@@ -20,7 +20,7 @@ public class num_1157 {
 				ch = (char) (i + 65);
 			}
 			
-			else if (arr[i] == max) {	// 가장 많이 사용된 알파베이 여러 개 일 경우
+			else if (arr[i] == max) {	// 가장 많이 사용된 알파벳이 여러 개 일 경우
 				ch = '?';
 			}
 		}
